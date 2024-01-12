@@ -1,0 +1,98 @@
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Hameed.exe
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Hameed.deps.json
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Hameed.runtimeconfig.json
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Hameed.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Hameed.pdb
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.Form1.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.GenerateResource.cache
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.AssemblyInfoInputs.cache
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.AssemblyInfo.cs
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.dll
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\refint\Hameed.dll
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.pdb
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.genruntimeconfig.cache
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\ref\Hameed.dll
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.memberboard.resources
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shake\source\repos\Hameed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.CopyComplete
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.AdminDashboard.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.Addbook.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.removebook.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.Availability.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.borrow.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.ReturnBooks.resources
+C:\Users\shake\source\repos\Hameed\obj\Debug\net8.0-windows\Hameed.transactionlog.resources
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Hameed.exe
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Hameed.deps.json
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Hameed.runtimeconfig.json
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Hameed.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Hameed.pdb
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\J A\sdam-2\Cb009902\Hameed\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.AssemblyReference.cache
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.Addbook.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.AdminDashboard.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.Availability.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.borrow.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.Form1.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.memberboard.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.removebook.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.ReturnBooks.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.transactionlog.resources
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.GenerateResource.cache
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.GeneratedMSBuildEditorConfig.editorconfig
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.AssemblyInfoInputs.cache
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.AssemblyInfo.cs
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.CoreCompileInputs.cache
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.csproj.CopyComplete
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.dll
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\refint\Hameed.dll
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.pdb
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\Hameed.genruntimeconfig.cache
+C:\J A\sdam-2\Cb009902\Hameed\obj\Debug\net8.0-windows\ref\Hameed.dll
